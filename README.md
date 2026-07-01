@@ -1,5 +1,5 @@
 ## Андрей Карабанов
-Студент 1 курса магистратуры, Java-разработчик в &nbsp; <img src="https://github.com/user-attachments/assets/708b7987-4094-4217-9934-dda4ca4b26b8" title="SBER" alt="SBER" width="35" height="35" />&nbsp;
+Java-разработчик в &nbsp; <img src="https://github.com/user-attachments/assets/708b7987-4094-4217-9934-dda4ca4b26b8" title="SBER" alt="SBER" width="35" height="35" />&nbsp;
 
 Пишу backend на Java, использую Spring Framework, Hibernate, Kafka, PostgreSQL, Liquibase, Docker, K8S, Git.<br>
 
